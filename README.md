@@ -18,4 +18,4 @@ O personagem do Player 2 já inicia selecionado, sendo apresentado ao lado direi
 
 ## Autor:
 
-Vítor Leal - Instagram: @fisiofaz8
+Fábio André Zatta - Instagram: @fisiofaz8
